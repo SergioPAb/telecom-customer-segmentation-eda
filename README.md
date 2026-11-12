@@ -1,5 +1,4 @@
-# sprint7_final_project_telecom_analysis
-# 📡 ConnectaTel Telecom Analysis – Proyecto 6
+# 📡 Segmentación de clientes de telecomunicaciones: limpieza de datos y análisis exploratorio (caso ConnectaTel)
  
 Este repositorio contiene el análisis realizado durante el **Proyecto 6** del curso, correspondiente al caso de **ConnectaTel**, una empresa de telecomunicaciones con operaciones en **México** y **Colombia**.
  
