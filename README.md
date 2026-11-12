@@ -65,7 +65,7 @@ Haz clic en el siguiente botón:
  
 O:
  
-1. Abre el archivo `sprint7_final_project_telecom_analysis.ipynb` en GitHub
+1. Abre el archivo `telecom-customer-segmentation-eda` en GitHub
 2. Haz clic en **Open in Colab**
 ---
  
